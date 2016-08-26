@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple count down component",
   "main": "src/CountDown.js",
-  "author": "Liu Cheng <mayi@wiredcraft.me>",
+  "author": "Liu Cheng <liucheng@flyingant.me>",
   "license": "MIT",
   "repository": {
     "type": "git",
