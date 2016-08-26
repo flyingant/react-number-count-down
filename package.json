@@ -1,13 +1,13 @@
 {
-  "name": "react-count-down",
+  "name": "react-number-count-down",
   "version": "1.0.0",
-  "description": "A simple count down component",
+  "description": "A simple number count down component",
   "main": "src/CountDown.js",
   "author": "Liu Cheng <liucheng@flyingant.me>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flyingant/react-count-down.git"
+    "url": "https://github.com/flyingant/react-number-count-down.git"
   },
   "devDependencies": {
     "babel-core": "^6.0.20",
