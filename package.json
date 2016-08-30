@@ -1,8 +1,8 @@
 {
   "name": "react-number-count-down",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "A simple number count down component",
-  "main": "src/CountDown.js",
+  "main": "index.js",
   "author": "Liu Cheng <liucheng@flyingant.me>",
   "license": "MIT",
   "repository": {
@@ -32,6 +32,7 @@
   },
   "scripts": {
     "start": "node server.js",
+    "build": "babel ./src/CountDown.js -o index.js",
     "lint": "eslint src"
   },
   "keywords": [
